@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr 30 14:25:50 2013
+Measurement of the total radiated power of an equipment under test in an electromagnetic reverberation chamber.
 
-@author: Administrateur
 """
 from __future__ import division
 import time
