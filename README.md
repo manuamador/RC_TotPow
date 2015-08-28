@@ -12,3 +12,6 @@ Required packages
 * Numpy
 * PyVISA
 * MinimalModBus
+
+`RC_calibration.py` performs a calibration using a signal generator and a spectrum analyser.
+`Total_radiated_Power.py` measures the total radiated power on the whole frequency range.
